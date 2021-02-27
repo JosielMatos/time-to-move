@@ -15,7 +15,7 @@ Install the next server
 npm install next
 ```
 
-Now run the app with
+Now run the app
 
 ```sh
 npm run dev
