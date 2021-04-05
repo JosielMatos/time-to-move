@@ -2,20 +2,14 @@
 Pomodoro-like app
 
 
-To run in localhost, you need Node.js installed. Install an LTS version from the official site.
+To run in localhost, you need Node.js installed.
 Then install the dependencies in the project folder.
 
 ```sh
 npm install
 ```
 
-Install the next server
-
-```sh
-npm install next
-```
-
-Now run the app
+To run the app:
 
 ```sh
 npm run dev
