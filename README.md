@@ -1,5 +1,5 @@
 # time-to-move
-Pomodoro-like app
+Pomodoro like app
 
 
 To run in localhost, you need Node.js installed.
